@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "factory:item/belt"
+    "model": "factory:item/belt-straight"
   }
 }
