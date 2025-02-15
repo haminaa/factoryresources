@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/slab",
+	"textures": {
+		"top": "block/warped_planks"
+	}
+}
